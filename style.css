@@ -123,3 +123,24 @@ color: #757575;
        margin: 0;
        padding: 0;
    }
+   .about-me-list,.skills{
+    margin-left: 1100px;
+   }
+   h1,h2,h3,h4,.skills{
+    font-family: Roboto;
+    color: #2F303A;
+   }
+   .skills{
+    flex-direction: column;
+    margin-bottom: 113px;
+   }
+   img{
+    transition: 1s;
+   }
+   img:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+   }
+   a{
+    transition: 0.5s;
+   }
