@@ -155,10 +155,11 @@ color: #757575;
    .a{
     color: #2F303A;
    }
-   .my-site-list{
+  .my-site-list{
     width: 1100px;
     margin-left: 300px;
     gap: 50px;
     display: flex;
-    margin-bottom: 113px;
+    margin-top: 200px;
+    margin-bottom: 247px;
    }
